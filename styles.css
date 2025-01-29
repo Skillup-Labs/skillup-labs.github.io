@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+IN:wght@100..400&family=Roboto:ital,wght@1,100..900&display=swap');
+
+body {
+  background-color: azure;
+
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+  font-family: 'Playwrite IN', serif;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.6em;
+}
